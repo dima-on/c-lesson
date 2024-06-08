@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\sinic\source\repos\lesson\lesson\main.cpp(69,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\sinic\source\repos\lesson\lesson\main.cpp(168,19): warning C4305: =: усечение из "double" в "float"
+C:\Users\sinic\source\repos\lesson\lesson\main.cpp(197,5): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\sinic\source\repos\lesson\lesson\main.cpp(203,5): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\sinic\source\repos\lesson\lesson\main.cpp(204,5): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\sinic\source\repos\lesson\lesson\main.cpp(207,6): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\sinic\source\repos\lesson\lesson\main.cpp(210,6): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\sinic\source\repos\lesson\lesson\main.cpp(211,7): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\sinic\source\repos\lesson\lesson\main.cpp(212,7): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+  lesson.vcxproj -> C:\Users\sinic\source\repos\lesson\x64\Debug\lesson.exe
